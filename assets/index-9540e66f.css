@@ -279,7 +279,7 @@
 .footer {
     display: flex;
     position: absolute;
-    width: 1730px;
+    width: 1903px;
     height: 345px;
     bottom: -2863px;
     background: #333333;
@@ -311,5 +311,9 @@
     width: 46px;
     height: 46px;
     position: relative;
-    left: -1132px
+    left: -1246px
+}
+
+#info{
+    text-align: center;
 }
