@@ -1,0 +1,1 @@
+// </p><Typewriter options={{ strings: ['<p className="p">Hola</p>', 'World'], autoStart: true,  loop: true, }} />
