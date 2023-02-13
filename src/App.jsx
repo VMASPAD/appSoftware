@@ -144,7 +144,7 @@ function App() {
         </th>
         <th className="footerTittle">SoftWare
         <div>
-          <th><a href="https://www.tiktok.com/@t.a_perspectiva"><img src="./src/assets/tik-tok.png" className="imgTiktok" /></a></th>
+          <th><a href="https://www.tiktok.com/@t.a_perspectiva"><img src="./src/img/tik-tok.png" className="imgTiktok" /></a></th>
         </div></th>
       </footer>
     </div>
