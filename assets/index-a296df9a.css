@@ -181,7 +181,7 @@
     bottom: 184px;
     left: 45px;
     font-size: 57px;
-    font-family: "Play" !important
+    font-family: 'Play', sans-serif; !important
 }
 #TypewriterTop {
     position: absolute;
@@ -190,7 +190,7 @@
     bottom: 533px;
     left: 600px;
     font-size: 57px;
-    font-family: "Play" !important
+    font-family: 'Play', sans-serif; !important
 }
 #list {
     display: flex;
