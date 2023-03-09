@@ -2,6 +2,7 @@
 @import"https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap";
 @import"https://fonts.googleapis.com/css2?family=League+Spartan:wght@300&display=swap";
 @import"https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap";
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
 .thumbail {
     max-width: 200%!important;
     position: relative;
@@ -180,7 +181,7 @@
     bottom: 184px;
     left: 45px;
     font-size: 57px;
-    font-family: Play!important
+    font-family: "Play" !important
 }
 #TypewriterTop {
     position: absolute;
@@ -189,7 +190,7 @@
     bottom: 533px;
     left: 600px;
     font-size: 57px;
-    font-family: Play!important
+    font-family: "Play" !important
 }
 #list {
     display: flex;
